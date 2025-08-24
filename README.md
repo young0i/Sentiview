@@ -25,6 +25,7 @@ Dabei soll ein Modell erkennen, ob eine Rezension oder ein Kommentar **positiv, 
 ---
 
 ### 🗂️ Projektstruktur
+"
 Sentiview/
 │
 ├── data/
@@ -41,6 +42,7 @@ Sentiview/
 ├── README.md # Projektbeschreibung
 ├── requirements.txt # Python-Abhängigkeiten
 └── .gitignore
+"
 
 ---
 

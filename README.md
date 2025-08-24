@@ -11,7 +11,7 @@ Dabei soll ein Modell erkennen, ob eine Rezension oder ein Kommentar **positiv, 
 
 ### 👩‍💻 Projektteam (Scrum Team)
 - Ngoc Anh Thu Pham: Product Owner, Developer
-- YeoYoung Yi: Scrum Master, Developer
+- Yeoyoung Yi: Scrum Master, Developer
 
 ---
 

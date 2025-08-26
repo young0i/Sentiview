@@ -1,0 +1,14 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# VSCode settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+*.log
+*.tmp

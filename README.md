@@ -25,22 +25,20 @@ Dabei soll ein Modell erkennen, ob eine Rezension oder ein Kommentar **positiv, 
 ---
 
 ### 🗂️ Projektstruktur
+```
 Sentiview/
-│
 ├── data/
 │ ├── raw/ # Originaldaten
 │ └── processed/ # Bereinigte Daten
-│
 ├── notebooks/
 │ ├── 01_data_preprocessing.ipynb
 │ └── 02_model_training.ipynb
-│
 ├── models/ # Trainierte Modelle
 ├── app/ # Streamlit-App-Code
-│
 ├── README.md # Projektbeschreibung
 ├── requirements.txt # Python-Abhängigkeiten
 └── .gitignore
+```
 
 ---
 
